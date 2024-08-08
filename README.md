@@ -44,7 +44,7 @@
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License. check it for more details.
 
 ## Contributing
 

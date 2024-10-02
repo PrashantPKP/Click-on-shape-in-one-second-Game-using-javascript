@@ -6,9 +6,9 @@
 
 ## Features
 
-- **Random Shape Appearance:** Circular shapes appear randomly on the screen.
-- **Time Limit:** Players have one second to click on the shape.
-- **Fail Condition:** Taking more than one second to click the shape results in failure.
+- **Random Shape Appearance:** Circular shapes appear randomly on the screen,
+- **Time Limit:** Players have one second to click on the shape,
+- **Fail Condition:** Taking more than one second to click the shape results in failure,
 - **Interactive UI:** Simple and engaging user interface.
 
 ## Technologies Used
